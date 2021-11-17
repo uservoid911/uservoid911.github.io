@@ -1,0 +1,6 @@
+#!/bin/bash
+#Haha, preparing for prank...
+#these stuff got almost 1-2 hours of me, but totally worth it. Boss worth lot for me :D
+echo "[38;5;26m[48;5;226mChecking...[0m"
+sleep 3
+echo "[38;5;46mAll Ok[0m"

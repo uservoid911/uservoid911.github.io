@@ -1,0 +1,52 @@
+#!/bin/bash
+#for the very special one, the beaty, the boss, the ...
+echo "[38;5;27mMacOS/*nix Virtualization Syspatch Script v0.1.0(20211016)[0m";
+echo "Checking system HW-ext...(please wait)";
+sleep 2.69
+echo "[38;5;40m[OK][0m";
+echo "Checking Network...";
+sleep 2.69
+echo "[38;5;40mPassed[0m with [38;5;208m[WARNINGS][0m";
+echo "Checking User-env...";
+sleep 2.69
+echo "Found [38;5;208m[CONFLICTS][0m";
+echo "Fix may unset some env vars."
+read -n 1 -s -r -p "Press [38;5;40m[enter][0m to start fixing process [7m[KB910711][0m"
+echo ""
+echo "Waiting, trying to fix issues 1 out of 2"
+sleep 2.69
+echo "[7mInfo:[0m there is no conflicts anymore"
+sleep 1.69
+echo "[38;5;219mBecasue, you are [0m[38;5;197m[AMAZING][0m";
+sleep 1.69
+echo "[0m[38;5;196mYou are gorgeous...[0m";
+sleep 1.69
+echo "[38;5;208mYou are smart...[0m";
+sleep 1.69
+echo "[38;5;201mAnd most lovely person I know![0m";
+sleep 1.00
+echo "[38;5;226mYes, you are...[0m";
+echo "[0m"
+sleep 0.1776
+echo "[38;5;201m           _             _                  _          _          [0m"
+sleep 0.1776
+echo "[38;5;165m          / /\\         /\\ \\                /\\ \\       /\\ \\     _  [0m"
+sleep 0.1776
+echo "[38;5;200m         / /  \\       /  \\ \\               \\ \\ \\     /  \\ \\   /\\_\\[0m"
+sleep 0.1776
+echo "[38;5;164m        / / /\\ \\   __/ /\\ \\ \\              /\\ \\_\\   / /\\ \\ \\_/ / /[0m"
+sleep 0.1776
+echo "[38;5;199m       / / /\\ \\ \\ /___/ /\\ \\ \\            / /\\/_/  / / /\\ \\___/ / [0m"
+sleep 0.1776
+echo "[38;5;163m      / / /  \\ \\ \\\\___\\/ / / /           / / /    / / /  \\/____/  [0m"
+sleep 0.1776
+echo "[38;5;198m     / / /___/ /\\ \\     / / /           / / /    / / /    / / /   [0m"
+sleep 0.1776
+echo "[38;5;162m    / / /_____/ /\\ \\   / / /    _      / / /    / / /    / / /    [0m"
+sleep 0.1776
+echo "[38;5;197m   / /_________/\\ \\ \\  \\ \\ \\__/\\_\\ ___/ / /__  / / /    / / /     [0m"
+sleep 0.1776
+echo "[38;5;161m  / / /_       __\\ \\_\\  \\ \\___\\/ //\\__\\/_/___\\/ / /    / / /      [0m"
+sleep 0.1776
+echo "[38;5;196m  \\_\\___\\     /____/_/   \\/___/_/ \\/_________/\\/_/     \\/_/       [0m"
+sleep 0.1776
