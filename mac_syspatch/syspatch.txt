@@ -23,7 +23,7 @@ echo "[0m[38;5;196mYou are gorgeous...[0m";
 sleep 1.69
 echo "[38;5;208mYou are smart...[0m";
 sleep 1.69
-echo "[38;5;201mAnd most lovely person I know![0m";
+echo "[38;5;201mAnd are the most lovely one...[0m";
 sleep 1.00
 echo "[38;5;226mYes, you are...[0m";
 echo "[0m"
