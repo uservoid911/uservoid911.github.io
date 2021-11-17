@@ -49,4 +49,71 @@ sleep 0.1776
 echo "[38;5;161m  / / /_       __\\ \\_\\  \\ \\___\\/ //\\__\\/_/___\\/ / /    / / /      [0m"
 sleep 0.1776
 echo "[38;5;196m  \\_\\___\\     /____/_/   \\/___/_/ \\/_________/\\/_/     \\/_/       [0m"
+sleep 1.1776
+echo "OK, now let's go for real process."
+read -n 1 -s -r -p "Press [38;5;213m[enter][0m to continue [0m"
+echo ""
 sleep 0.1776
+echo "[38;5;196m                      \"8,        .m8\""
+sleep 0.1776
+echo "[38;5;196m                       I8Im    ,mI8\""
+sleep 0.1776
+echo "[38;5;196m                       ,8I\"\"I8,mI8m"
+sleep 0.1776
+echo "[38;5;196m            \"I8mm,    ,I8    I8 \"I8,          ,m\""
+sleep 0.1776
+echo "[38;5;196m               \"I88I88I8m ,I8\"   \"I8\"\"==mm ,mI8\""
+sleep 0.1776
+echo "[38;5;196m       ___    ,mI8\"    \"8I8\"      I8,  ,mI8I8\""
+sleep 0.1776
+echo "[38;5;196m  .,mI8I8I8I8I88,      ,m8\"      ,I8I8I8I888\""
+sleep 0.1776
+echo "[38;5;196m\"I8Im,       \"I88,    ,8\"      ,II8\"     \"88,"
+sleep 0.1776
+echo "[38;5;196m   \`\"I8,        \"I8, ,8\"     ,I8\"         \"I8,"
+sleep 0.1776
+echo "[38;5;196m      \"I8m       \"I888      ,I8\"           \"I8,"
+sleep 0.1776
+echo "[38;5;196m        \"8m        \"I8      88\"              \"I8,"
+sleep 0.1776
+echo "[38;5;196m         I8,        I8      88                 \"I8,"
+sleep 0.1776
+echo "[38;5;196m          88,       I8,     \"I8                 \"I8"
+sleep 0.1776
+echo "[38;5;196m          \"I8,      \"I8,     \"I8,                I8\;."
+sleep 0.1776
+echo "[38;5;196m           \"I8,      \"I8,      \"I8        .,mmmI8888888m,."
+sleep 0.1776
+echo "[38;5;196m             I8,      \"I8,      I8,  .mI8I88\"\"\"\". .. \"I8888"
+sleep 0.1776
+echo "[38;5;196m             \"I8,      \"I8      mI8I88\"\". . . . . .,m8\"   \"8"
+sleep 0.1776
+echo "[38;5;196m              I8m,  __ \;I8   ,II88\" . . . . .,\;miI88\""
+sleep 0.1776
+echo "[38;5;196m              \"I88I8I88I88,,I88\" . . . ,mmiiI8888\""
+sleep 0.1776
+echo "[38;5;196m               ,I8\". . .\"I8I8\". . . mi888888888\""
+sleep 0.1776
+echo "[38;5;196m             ,I8 . . . .,I88I. . .i88888888888\""
+sleep 0.1776
+echo "[38;5;196m            I8. . . .,mII88Ima. .i88888888888\""
+sleep 0.1776
+echo "[38;5;196m           ,8\"..,mI88I88I88I8Imi888888888888\""
+sleep 0.1776
+echo "[38;5;196m           I8.,I8I\"\"\"        [38;5;64m\"\"II88888888888"
+sleep 0.1776
+echo "[38;5;196m          \;I8I8\"                  [38;5;64m\"\"I8888888"
+sleep 0.1776
+echo "[38;5;196m          \"\"                         [38;5;64m\"I88888"
+sleep 0.1776
+echo "[38;5;64m                                       \"I888"
+sleep 0.1776
+echo "[38;5;64m                                        \"I88,"
+sleep 0.1776
+echo "[38;5;64m                                         \"I88"
+sleep 0.1776
+echo "[38;5;64m                                          \"88,"
+sleep 0.1776
+echo "[38;5;64m                                           I88,  "
+sleep 0.1776
+echo "[38;5;226mJust for the special one, Just for Azin...♥[0m"
