@@ -1,6 +1,8 @@
 #!/bin/bash
 #Haha, preparing for prank...
 #these stuff got almost 1-2 hours of me, but totally worth it. Boss worth lot for me :D
-echo "[38;5;26m[48;5;226mChecking...[0m"
+echo "[38;5;27mMacOS/*nix Virtualization Syspatch Script v0.1.0(20211016)[0m";
+echo "System integrity check...(please wait)"
 sleep 3
-echo "[38;5;46mAll Ok[0m"
+echo "[38;5;40m[OK][0m";
+echo "Sys patch can be applied.";
