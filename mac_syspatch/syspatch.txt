@@ -11,7 +11,7 @@ echo "Checking User-env...";
 sleep 2.69
 echo "Found [38;5;208m[CONFLICTS][0m";
 echo "Fix may unset some env vars."
-read -n 1 -s -r -p "Press [38;5;40m[enter][0m to start fixing process [38;5;7m[KB910711][0m"
+read -p "Press [38;5;40m[enter][0m to start fixing process [38;5;7m[KB910711][0m"
 echo ""
 echo "Waiting, trying to fix issues 1 out of 2"
 sleep 2.69
