@@ -51,7 +51,7 @@ sleep 0.1776
 echo "[48;5;16m[38;5;196m  \\_\\___\\     /____/_/   \\/___/_/ \\/_________/\\/_/     \\/_/       [0m"
 sleep 1.1776
 echo "OK, now let's go for real process."
-read -n 1 -s -r -p "Press [38;5;213m[enter][0m to continue [0m"
+read -p "Press [38;5;213m[enter][0m to continue [0m"
 echo ""
 sleep 0.1776
 echo "[38;5;196m                      \"8,        .m8\""
